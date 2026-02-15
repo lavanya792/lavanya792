@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Lavanya</h1>
-<h3 align="center">🎓 B.Tech Student | 🔐 Digital Forensics & Cybersecurity Enthusiast</h3>
+<h3 align="center">🎓 B.Tech Student | 🔐 Data Science Enthusiast</h3>
 
 ---
 
