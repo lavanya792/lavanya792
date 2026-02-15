@@ -5,9 +5,9 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🔭 Currently working on **(IDS)**  
+- 🔭 Currently working on **(MACHINE LEARNING MODELS)**  
 - 🌱 Learning **DS **  
-- 📫 Reach me at **@gmail.com**  
+- 📫 Reach me at **Lavanyachhabra79@gmail.com**  
 
 ---
 ## 🌐 Connect With Me  
