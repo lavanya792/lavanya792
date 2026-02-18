@@ -12,13 +12,13 @@
 ---
 ## 🌐 Connect With Me  
 <div align="center">
-  <a href="https://linkedin.com/in/anuj-rawat-699525324" target="_blank">
+  <a href="https://linkedin.com/in/lavanya-chhabra-4a6430357" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/anuj_rawat_08" target="_blank">
+  <a href="https://instagram.com/chhabra.lavanya03" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:anujrwt08@gmail.com" target="_blank">
+  <a href="mailto:lavanyachhabra79@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
   </a>
 </div>
